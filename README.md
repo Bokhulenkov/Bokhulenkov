@@ -8,6 +8,7 @@
 
 - 🐧 Swift
 - 🛠 Xcode
+- Core Data
 - Firebase
 - 🔭 I’m currently working on **DevRush marathon**
 
