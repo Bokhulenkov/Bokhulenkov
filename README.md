@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Alexander Bokhulenkov</h1>
-<h4>I'm businessman, but now Learning Swift. I learning myself in YouTube and online courses.</h3>
+<p>I'm businessman, but now Learning Swift. I learning myself in YouTube and online courses.</p>
 
 <h2>Skills and Experience</h2>
 
