@@ -2,9 +2,9 @@
 
 
 <h1 align="center">Hi 👋, I'm Alexander Bokhulenkov</h1>
-<h3 align="center">I'm businessman, but now Learning Swift. I learning myself in YouTube and online courses.</h3>
+<h4>I'm businessman, but now Learning Swift. I learning myself in YouTube and online courses.</h3>
 
-<h2 align="center">Skills and Experience</h2>
+<h2>Skills and Experience</h2>
 
 
 - 🔭 I’m currently working on **DevRush marathon**
