@@ -9,7 +9,7 @@
 - 🐧 Swift
 - 🛠 Xcode
 - Core Data
-- 📝 SnapKit****
+- 📝 SnapKit
 - Firebase
 - 🔭 I’m currently working on **DevRush marathon**
 
