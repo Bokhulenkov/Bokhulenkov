@@ -7,9 +7,7 @@
 
 - 🐧 Swift
 - 🛠 Xcode
-- Core Data
-- 📝 SnapKit
-- Firebase
+- 📝 HTML & CSS
 - 🔭 I’m currently working on **DevRush**
 
 <h3 align="left">Languages and Tools:</h3>
